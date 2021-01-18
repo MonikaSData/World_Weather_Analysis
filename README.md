@@ -43,6 +43,8 @@ Analyze World Weather Data using Python
     - Use those preferences to identify potential travel destinations and nearby hotels 
     - Show those destinations on a marker layer map with pop-up markers
 
+    **Weather Vacation Map**
+
     ![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
 
 
@@ -50,9 +52,14 @@ Analyze World Weather Data using Python
     - Use the Google Directions API to create a travel itinerary that shows the route between four cities     chosen from the customer’s possible travel destinations
     - Create a marker layer map with a pop-up marker for each city on the itinerary
 
+
+    **Weather Travel Map (Vacation Itinerary)**
+
     ![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
 
     
+    **Weather Travel Map with Markers**
+
     ![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
     
 
